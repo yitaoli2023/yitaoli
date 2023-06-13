@@ -100,16 +100,24 @@ id = "@yitaoli"
 url = "https://www.youtube.com/@yitaoli"
 
 [[params.friends]]
-name = "John Doe"
-url = "https://gohugo.io"
+name = "呼猫护卫"
+url = "https://www.notion.so/qingshanbadass/e3d519283a9f4412acc1d174ec94e30d"
+
+[[params.friends]]
+name = "椒盐豆豉"
+url = "https://blog.douchi.space/#gsc.tab=0"
+
+[[params.friends]]
+name = "Nomadland"
+url = "https://nomadland.blog/"
 
 # See https://giscus.app/
 [params.giscus]
 enable = true
-repo = "roninro/hugo-theme-puppet"
-repo_id = "R_kgDOHuvyhw"
+repo = "yitaoli2023/yitaoli"
+repo_id = "R_kgDOJu1maA"
 category = "General"
-category_id = "DIC_kwDOHuvyh84CQjDo"
+category_id = "DIC_kwDOJu1maM4CXMl6"
 input_position = "top"
 theme = "light_tritanopia"
-lang = "en"
+lang = "zh-CN"
