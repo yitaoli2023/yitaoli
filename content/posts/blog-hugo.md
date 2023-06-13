@@ -59,7 +59,7 @@ xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools
 
 1. Hugo version: 我的版本已经是 hugo v0.113.0，教程中的 config.toml 已经改为 hugo.toml。
 <figure>
-     <img style="max-width: 40%" src="/img/toml.png">
+     <img style="max-width: 40%" src="/yitaoli/img/toml.png">
 </figure>
 
 2. Main vs Master: Github 将 master 改为 main, commit 的时候要注意。选择用

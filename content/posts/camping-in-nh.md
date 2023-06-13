@@ -52,7 +52,7 @@ NH 这块地方叫做 Presidential Range，都以总统名字来为山命名。�
 回家后的一周，狗子的玩耍需求骤减。多带他爬爬山可能也挺好的。
 
 <figure>
-  <img style="max-width: 50%" src="/img/p75385288.jpg">
+  <img style="max-width: 50%" src="/yitaoli/img/p75385288.jpg">
   <figcaption>附上支帐篷之前狗子靓照一张</figcaption>
 </figure>
 
