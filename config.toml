@@ -115,6 +115,10 @@ url = "https://nomadland.blog/"
 name = "Shingi"
 url = "https://www.shingireservation.com/"
 
+[[params.friends]]
+name = "旋转木马鏖战记"
+url = "https://samsmerrygoround.github.io/"
+
 # See https://giscus.app/
 [params.giscus]
 enable = true
