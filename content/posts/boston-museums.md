@@ -82,6 +82,8 @@ MFA 背后是有一个小玫瑰园 James P. Kelleher Rose Garden，春夏之际�
 
 小而精致，建筑很喜欢，中空，四周是长廊和画廊。博物馆地方不是特别大，相应的展品也不是特别多。如果有闲暇可以逛逛，赶时间就可以跳过了。个人觉得 20 刀不是很值。
 
+_更新：邓布利多教授推荐了一期路书的播客[金相玉质：哈佛艺术博物馆](https://pca.st/z2iz3gf4)，讲述了哈佛艺术博物馆和中国的历史渊源。听过之后再去，想必会有不一样的参观经历。_
+
 周一闭馆，[打折信息看这里](https://harvardartmuseums.org/visit/policies/ticketing-information)：
 
 - 学生免费
