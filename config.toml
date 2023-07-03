@@ -119,6 +119,10 @@ url = "https://www.shingireservation.com/"
 name = "旋转木马鏖战记"
 url = "https://samsmerrygoround.github.io/"
 
+[[params.friends]]
+name = "沉默之沙"
+url = "https://yukieyun.net/"
+
 # See https://giscus.app/
 [params.giscus]
 enable = true
