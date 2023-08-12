@@ -15,7 +15,7 @@ enableEmoji = true
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
-disqusShortname = ""
+disqusShortname =  "https-yitaoli2023-github-io-yitaoli"
 googleAnalytics = "G-040GK8YC1C"
 
 [outputs]
@@ -122,17 +122,3 @@ url = "https://samsmerrygoround.github.io/"
 [[params.friends]]
 name = "沉默之沙"
 url = "https://yukieyun.net/"
-
-# See https://giscus.app/
-[params.giscus]
-enable = true
-repo = "yitaoli2023/yitaoli"
-repo_id = "R_kgDOJu1maA"
-category = "General"
-category_id = "DIC_kwDOJu1maM4CXMl7"
-mapping = "title"
-input_position = "top"
-theme = "light_tritanopia"
-lang = "zh-CN"
-
-disqusShortname = "https-yitaoli2023-github-io-yitaoli"
