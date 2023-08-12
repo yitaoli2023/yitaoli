@@ -134,3 +134,5 @@ mapping = "title"
 input_position = "top"
 theme = "light_tritanopia"
 lang = "zh-CN"
+
+disqusShortname = "https-yitaoli2023-github-io-yitaoli"
