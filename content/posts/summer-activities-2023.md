@@ -5,7 +5,7 @@ header_img = ""
 toc = true
 tags = [
     "文艺",
-    "健身",
+    "运动健身",
     "女性友谊"
 ]
 categories = []
