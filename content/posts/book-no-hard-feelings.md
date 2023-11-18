@@ -74,7 +74,7 @@ Avoid telling people what to feel. 不要说” Don’t be mad,”” It’s not
 
 ### 要求涨薪
 
-**Mollie**: If you are asking for more money, try this magic line: “I don’t want my salary to be a distraction to a distraction to me while I’m in this role” By saying you don’t want your salary to be a distraction(i.e. distractingly low), you are stating a fact that both you and the other person believe to be true. You are having empathy for both yourself and the other party. They also don’t want you to be distracted.
+**Mollie**: If you are asking for more money, try this magic line: “I don’t want my salary to be a distraction to me while I’m in this role” By saying you don’t want your salary to be a distraction(i.e. distractingly low), you are stating a fact that both you and the other person believe to be true. You are having empathy for both yourself and the other party. They also don’t want you to be distracted.
 
 ### I 人工作习惯名言警句
 
