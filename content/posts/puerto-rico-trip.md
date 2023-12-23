@@ -3,7 +3,6 @@ author = ""
 title = "去波多黎各看艳阳天"
 date = 2019-08-16 09:07:19
 tags = [
-    "波多黎各",
     "旅行"
 ]
 categories = []
