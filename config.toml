@@ -59,7 +59,7 @@ weight = 50
 
 [params]
 author = "李一桃🍑"
-description = "我们红尘做伴，活得潇潇洒洒"
+description = "我们红尘作伴，活得潇潇洒洒"
 keywords = "博客，生活，哈士奇，科技"
 img_home = "https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
 img_404 = "https://images.unsplash.com/photo-1651940334832-6346cf9276ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
