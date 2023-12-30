@@ -13,6 +13,6 @@ comment = false
 - 练过小提琴、中提琴，或许有一天会捡起来继续
 
 <figure>
-  <img style="max-width: 50%" src="/yitaoli/img/JP.jpg">
+  <img style="max-width: 80%" src="/yitaoli/img/JP.jpg">
   <figcaption>日本旅行地图</figcaption>
 </figure>
