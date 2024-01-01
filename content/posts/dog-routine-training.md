@@ -5,6 +5,7 @@ header_img = ""
 toc = true
 tags = ["狗子"]
 categories = []
+description = "我狗叫 Echo，今年五岁半啦。人见人爱，花见花开，是我的大宝贝。除了 Echo 之外，我也帮家人朋友分别 dog sit 过一岁、十岁和十七岁的狗狗。本文基于我自身的知识和经验，欢迎大家一起探讨如何科学养狗。"
 series = []
 comment = true
 

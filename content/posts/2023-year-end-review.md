@@ -6,6 +6,7 @@ tags = [
 ]
 subtitle = ""
 header_img = ""
+description = "评选出了我的年度之书、年度游戏、年度大事、年度爱宠和年度运动。"
 toc = true
 comment = true
 +++

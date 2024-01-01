@@ -6,6 +6,7 @@ tags = [
 ]
 subtitle = ""
 header_img = ""
+description = "一晃结婚两年了，两人一狗，经历了我无业，我找工，一起跨州搬家，他无业，也算是岁月峥嵘。感情还算坚固，禁住了分手厨房、分手裝修、双人成行，和陪我练车等考验。"
 toc = true
 comment = true
 +++

@@ -6,6 +6,7 @@ toc = true
 tags = ["码农", "学习", "科技", "工作"]
 categories = []
 series = []
+description = "全职做 SWE 一周年啦 🎉。回顾总结一下在转码和工作过程中，我都上了哪些课，读了哪些书。"
 comment = true
 +++
 

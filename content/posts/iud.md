@@ -5,6 +5,7 @@ header_img = ""
 toc = true
 tags = ["避孕", "医疗"]
 categories = []
+description = "置入 IUD 之前，看了一些姐妹的经验贴，觉得非常有帮助，所以也来分享一下我的个人体验。Disclaimer：本文只是个人知识和体验分享，并非医疗建议。"
 series = []
 comment = true
 +++

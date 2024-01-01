@@ -6,6 +6,7 @@ tags = [
 ]
 subtitle = ""
 header_img = ""
+description = "室友推荐了一个No-Knife Pasta菜谱，于是自己也尝试着做了一下，并稍稍做了一点改变。简单又清爽，冷吃热吃都可以，而且只用到一个锅，20-30 分钟就能做好。"
 +++
 
 室友推荐了一个 <a href="https://www.marthastewart.com/326549/no-knife-pasta">No-Knife Pasta</a> 菜谱，于是自己也尝试着做了一下，并稍稍做了一点改变。简单又清爽，冷吃热吃都可以，而且只用到一个锅。20-30 分钟就能做好。

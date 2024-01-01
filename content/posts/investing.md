@@ -7,6 +7,7 @@ tags = [
 ]
 categories = []
 series = []
+description = "太长不看 1. 持有两到三张信用卡，建立好的信用分。2. 开无手续费、无最低存款要求的活期存款账户和高利率的定期账户，存 6-12 个月的生活费。不用现金的话还可以开有利息的网上活期存款账户。3. 投满 tax-advantaged 退休账户，例如 401k 和 Roth IRA。医疗保险支持 HSA 的投钱进 HSA。4. 还有闲钱可以开投资账户。5. 各个账户里的钱，懒得自己管就定投 target date funds；能每 12-18 个月 rebalance 自己投资的就定投 index funds/ETFs。"
 toc = true
 comment = true
 +++
