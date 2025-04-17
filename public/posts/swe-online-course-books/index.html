@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="google-site-verification" content="qC6OC1YG6oZPNLFe9xmG668isOmT7aoCsYp5Ov1XsjY" />
+
+  
+    
+  <title>转码上岸，我都学了些啥 | 李一桃 🍑</title>
+  <meta name="author" content="李一桃🍑">
+  <meta name="description" content="全职做 SWE 一周年啦 🎉。回顾总结一下在转码和工作过程中，我都上了哪些课，读了哪些书。">
+  <meta name="keywords" content="博客，生活，哈士奇，科技">
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="转码上岸，我都学了些啥">
+  <meta name="twitter:description" content="全职做 SWE 一周年啦 🎉。回顾总结一下在转码和工作过程中，我都上了哪些课，读了哪些书。">
+
+  <meta property="og:url" content="http://localhost:1313/posts/swe-online-course-books/">
+  <meta property="og:site_name" content="李一桃 🍑">
+  <meta property="og:title" content="转码上岸，我都学了些啥">
+  <meta property="og:description" content="全职做 SWE 一周年啦 🎉。回顾总结一下在转码和工作过程中，我都上了哪些课，读了哪些书。">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-06-16T22:47:00+00:00">
+    <meta property="article:modified_time" content="2023-06-16T22:47:00+00:00">
+    <meta property="article:tag" content="码农">
+    <meta property="article:tag" content="学习">
+    <meta property="article:tag" content="科技">
+    <meta property="article:tag" content="工作">
+
+  <link rel="stylesheet" href="/css/bootstrap.min.css"  crossorigin="anonymous">
+  
+  <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="/sass/main.css">
+
+  <link rel="stylesheet" href="/zoomjs/zoom.min.css">
+
+  <script src=/js/lazysizes.min.js></script>
+
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  
+
+</head>
+
+
+
+<body ontouchstart="">
+  
+  
+  <nav class="navbar navbar-default navbar-custom navbar-fixed-top invert">
+  <div class="container-fluid">
+    
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://localhost:1313/">李一桃 🍑</a>
+    </div>
+    
+    <div id="huxblog_navbar">
+      <div class="navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          
+          <li><a href="/" title="主页">主页</a></li>
+          
+          <li><a href="/archive/" title="文章">文章</a></li>
+          
+          <li><a href="/about/" title="关于我">关于我</a></li>
+          
+
+          <li class="search-icon">
+            <a href="javascript:void(0)">
+              <i class="fa fa-search"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+  </div>
+  
+</nav>
+<script>
+  
+  
+  
+  var $body = document.body;
+  var $toggle = document.querySelector(".navbar-toggle");
+  var $navbar = document.querySelector("#huxblog_navbar");
+  var $collapse = document.querySelector(".navbar-collapse");
+
+  var __HuxNav__ = {
+    close: function () {
+      $navbar.className = " ";
+      
+      setTimeout(function () {
+        
+        if ($navbar.className.indexOf("in") < 0) {
+          $collapse.style.height = "0px";
+        }
+      }, 400);
+    },
+    open: function () {
+      $collapse.style.height = "auto";
+      $navbar.className += " in";
+    },
+  };
+
+  
+  $toggle.addEventListener("click", function (e) {
+    if ($navbar.className.indexOf("in") > 0) {
+      __HuxNav__.close();
+    } else {
+      __HuxNav__.open();
+    }
+  });
+
+  
+
+  document.addEventListener("click", function (e) {
+    if (e.target == $toggle) return;
+    if (e.target.className == "icon-bar") return;
+    __HuxNav__.close();
+  });
+</script>
+  
+<div class="search-page">
+  <div class="search-icon-close-container">
+    <span class="search-icon-close">
+      <i class="fa fa-chevron-down"></i>
+    </span>
+  </div>
+  <div class="search-main container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <form></form>
+        <input type="text" id="search-input" placeholder="$ grep...">
+        </form>
+        <div id="search-results" class="mini-post-list"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+  
+
+
+<style type="text/css">
+  header.intro-header {
+    position: relative;
+    background-image: url('');
+  }
+</style>
+
+<header class="intro-header style-text">
+
+  <div class="header-mask"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <div class="tags">
+            
+            <a class="tag" href="/tags/%E7%A0%81%E5%86%9C/" title="码农">码农</a>
+            
+            <a class="tag" href="/tags/%E5%AD%A6%E4%B9%A0/" title="学习">学习</a>
+            
+            <a class="tag" href="/tags/%E7%A7%91%E6%8A%80/" title="科技">科技</a>
+            
+            <a class="tag" href="/tags/%E5%B7%A5%E4%BD%9C/" title="工作">工作</a>
+            
+          </div>
+          <h1>转码上岸，我都学了些啥</h1>
+          <h2 class="subheading"></h2>
+          <span class="meta">
+            Posted by  李一桃🍑 
+            on Fri, Jun 16, 2023
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+  
+
+
+<article>
+  <div class="container">
+    <div class="row">
+
+      
+      <div class="
+              col-lg-8 col-lg-offset-2
+              col-md-10 col-md-offset-1
+              post-container">
+        <section class="wordcount">
+          &lt;本文总计 1.75k 字, 阅读约需要 4 分钟>
+        </section>
+
+        <p>全职做 SWE 一周年啦 🎉。回顾总结一下在转码和工作过程中，我都上了哪些课，读了哪些书。</p>
+<h2 id="网课bootcamp">网课/Bootcamp<a class="anchorjs-link" href="#%e7%bd%91%e8%af%bebootcamp"></a></h2><h3 id="full-stack-javascripthttpsteamtreehousecomtechdegreefull-stack-javascript---treehouse"><a href="https://teamtreehouse.com/techdegree/full-stack-javascript" target="_blank">
+    Full Stack JavaScript
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a> - Treehouse<a class="anchorjs-link" href="#full-stack-javascripthttpsteamtreehousecomtechdegreefull-stack-javascript---treehouse"></a></h3><p>主要学习了 Javascript、Node.js、 React、 Express、REST API 和 SQL 等， 总共做了 10 个项目，都需要 commit 在 GitHub 上。大约每周学习 10 小时左右。</p>
+<p>课程老师讲的很细致，但我最喜欢的地方是每个章节后面都有一个大作业。大作业的要求非常详细，需要什么 function，每个 function 要做什么都会列出，并且没有标准答案，需要自己思考自己写。如果遇到困难，可以在 slack channel 上提问，并且鼓励学生之间互相答疑、互相帮助。</p>
+<p>提交完大作业之后，会有老师或者其他已经完成该项目的学生来评分。在自己完成之后，也鼓励批改其他人的大作业，相当于模仿工作中的 PR reivew 了。</p>
+<p>我能够免费参加 Treehouse 的这个课程，是因为它当时和一个公司联合搞了这个项目。目前需要付费，所以建议货比三家，选一个经济实惠、适合自己的。</p>
+<h3 id="the-complete-202x-web-development-bootcamphttpswwwudemycomcoursethe-complete-web-development-bootcamp---udemy"><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="_blank">
+    The Complete 202X Web Development Bootcamp
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a> - Udemy<a class="anchorjs-link" href="#the-complete-202x-web-development-bootcamphttpswwwudemycomcoursethe-complete-web-development-bootcamp---udemy"></a></h3><p>当时我看到很多人都推荐 Angela Yu 的这个网课，于是就买来学了一下，还蛮喜欢的。内容比较基础，和 treehouse 的网课有很大的重叠，对我来说算是查漏补缺了。在 Database 方面两者稍微有点不同，treehouse 用的是 SQLite，Angela 用的是 MongoDB（NoSQL）。</p>
+<p>课程在 udemy 打折时候买的，花了$18。</p>
+<h3 id="code-15-react-projectshttpswwwyoutubecomwatchva_7z7c_jcyo---youtube"><a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo" target="_blank">
+    Code 15 react projects
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a> - Youtube<a class="anchorjs-link" href="#code-15-react-projectshttpswwwyoutubecomwatchva_7z7c_jcyo---youtube"></a></h3><p>象友推荐了 John Smilga 的这个课程，内容主要集中 React 上。讲得也非常清晰，如果有基础，可以先自己写一遍，如果遇到问题可以网上查查，再看他的解说。</p>
+<h3 id="blind-75httpsneetcodeiopractice---neetcode"><a href="https://neetcode.io/practice" target="_blank">
+    Blind 75
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a> - Neetcode<a class="anchorjs-link" href="#blind-75httpsneetcodeiopractice---neetcode"></a></h3><p>在 data structure and algorithm 上，很多人都推荐 Blind 75。做题的时候发现了 Neetcode 的 YouTube 频道，觉得他讲得相对清晰有条理，而且 75 题非常齐全。Neetcode 现在陆陆续续出了 Neetcode 150，Neetcode All 和一些付费网课。</p>
+<h3 id="aws-cloud-practitionerhttpspagesawscloudcomcloudup-for-her-cloud-practitionerhtml---aws-cloudup-for-her"><a href="https://pages.awscloud.com/cloudup-for-her-cloud-practitioner.html" target="_blank">
+    AWS Cloud Practitioner
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a> - AWS CloudUp for Her<a class="anchorjs-link" href="#aws-cloud-practitionerhttpspagesawscloudcomcloudup-for-her-cloud-practitionerhtml---aws-cloudup-for-her"></a></h3><p>在象上看到这个免费的 AWS 学习项目，就在上班之余学了一下。它针对女性开放，内容比较基础，不需要技术背景。主要介绍了 AWS 有哪些服务，这些服务项目是用来做什么的。很多公司都用 aws 的云端服务，在面试过程中也有被问到熟不熟悉 aws。学习并通过考试之后会有一个 certificate，不过主要优势还是在于能听得懂同事在说些什么，并能提供自己的观点了。</p>
+<p>之后还有一个进阶版的 AWS Solutions Architect 项目，如果对 aws 有所了解可以直接学这个。我打算下半年学一下。</p>
+<h3 id="how-to-crack-the-whiteboard-interviewhttpswwwyoutubecomwatchvuovb09u-8oc---youtube"><a href="https://www.youtube.com/watch?v=UOvB09u-8oc" target="_blank">
+    How to crack the whiteboard interview
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a> - Youtube<a class="anchorjs-link" href="#how-to-crack-the-whiteboard-interviewhttpswwwyoutubecomwatchvuovb09u-8oc---youtube"></a></h3><p>这个视频主要讲的是 technical interview 的面试技巧和套路，看了之后很有收获。主要步骤就是</p>
+<ol>
+<li>问面试官问题确保理解题目意思，并问到 edge cases</li>
+<li>想面试官解释自己的思路，可以先从 brute force 开始，再进行优化。可以写一些 pseudocode。</li>
+<li>如果面试官肯定了你思路再开始写码</li>
+<li>用一个 test case 测试一遍</li>
+<li>分析 time &amp; space complexity - optional</li>
+</ol>
+<h2 id="书籍">书籍<a class="anchorjs-link" href="#%e4%b9%a6%e7%b1%8d"></a></h2><h3 id="cracking-the-coding-interviewhttpsamznto43lutwx"><a href="https://amzn.to/43LuTwX" target="_blank">
+    Cracking the Coding Interview
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a>*<a class="anchorjs-link" href="#cracking-the-coding-interviewhttpsamznto43lutwx"></a></h3><p>实习时候的 buddy 在我走之前给我列了一份大纲，教我如何准备 white board technical interview，用的是这个绿皮的 Cracking the Coding Interview。</p>
+<p>顺序上，我先按照他列的知识点开始学习，主要有 Big O、Arrays、Strings、Linked Lists、Stack 、Queue、Tree 、Graph、OOD、Sorting、Searching 和 Testing，再开始做 Blind 75。这样更有系统性。尤其是 Linked Lists、Stack 和 Queue，如果不了解基础概念直接做题，容易云里雾里。</p>
+<p>这本书网上资源很多，但我还是比较喜欢用纸质书学习。</p>
+<h3 id="designing-data-intensive-applicationshttpsamznto3xdwsmh"><a href="https://amzn.to/3XdWsMH" target="_blank">
+    Designing Data-Intensive Applications
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a>*<a class="anchorjs-link" href="#designing-data-intensive-applicationshttpsamznto3xdwsmh"></a></h3><p>很多人都推荐读这本书来准备 system design interview，不过 junior 一般不用考虑这个问题。上班之后和同事一起 book club 开始读这本书，基本上两到三周读一章，花了大半年才读完。</p>
+<p>收获比想象中要多一点，是一个 connecting 在我脑海中散落的 dots 的过程，当然也学到了很多新的概念。对我来说前面 5 章比较基础，从 database partitioning 开始变得复杂。无论如何，读了之后都对产品的 architecture 有了更多的了解，尤其是同事讲起一些名词的时候听得懂她们在说什么了。</p>
+<h3 id="kotlin-design-patterns-and-best-practiceshttpsamznto3pjsfty"><a href="https://amzn.to/3PjsftY" target="_blank">
+    Kotlin Design Patterns and Best Practices
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a>*<a class="anchorjs-link" href="#kotlin-design-patterns-and-best-practiceshttpsamznto3pjsfty"></a></h3><p>Kotlin 是目前比较流行的语言，和 Java 类似，可以用 Java 的 library，但是比 Java 简洁。虽然自己工作中没有在写 Kotlin，但是想要了解和学习这门语言，有种将来会用上的感觉。</p>
+<p>前面讲到的两本书的内容适用于各种语言，主要是概念性的。这本书比前面两本要轻松好读很多，内容只和 Kotlin 相关，有很多 code snippets 做例子，非常具体。</p>
+<hr>
+<p>*<em>提供的是我的 amazon affiliate links。</em>
+<em>如果想要支持本地书店，我推荐<a href="https://bookshop.org/" target="_blank">
+    bookshop.org
+     
+    <span style="white-space: nowrap; padding-right: 0.3em;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor">
+        </svg>
+    </span>
+    
+</a>。可以选择支持的书店，买书之后 bookshop 就会把部分收益捐赠给你选择的书店。</em></p>
+
+
+        <hr style="visibility: hidden;" />
+        <ul class="pager">
+          
+          <li class="previous">
+            <a href="/posts/boston-museums/" data-toggle="tooltip" data-placement="top" title="老司机带你玩波士顿 - 博物馆篇">
+              Previous<br>
+              <span>老司机带你玩波士顿 - 博物馆篇</span>
+            </a>
+          </li>
+          
+          
+          <li class="next">
+            <a href="/posts/dog-routine-training/" data-toggle="tooltip" data-placement="top" title="我狗的日常和我的养狗思考">
+              Next<br>
+              <span>我狗的日常和我的养狗思考</span>
+            </a>
+          </li>
+          
+        </ul>
+        <hr style="visibility: hidden;" />
+
+        
+        
+<div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "https-yitaoli2023-github-io-yitaoli" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+
+
+
+      </div>
+
+      
+      
+      
+      <div class="
+              col-lg-2 col-lg-offset-0
+              visible-lg-block
+              sidebar-container
+              catalog-container">
+        <div class="side-catalog">
+          <hr class="hidden-sm hidden-xs">
+          <h5>
+            <a class="catalog-toggle" href="#">CATALOG</a>
+          </h5>
+          <ul class="catalog-body"></ul>
+        </div>
+      </div>
+      
+      
+      <div class="
+              col-lg-8 col-lg-offset-2
+              col-md-10 col-md-offset-1
+              sidebar-container">
+        
+        
+        <section>
+  
+  
+  <hr class="hidden-sm hidden-xs">
+  
+  <h5>FEATURED TAGS</h5>
+  <div class="tags">
+    
+    <a href="/tags/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/">人际关系</a>
+    
+    <a href="/tags/%E5%8C%BB%E7%96%97/">医疗</a>
+    
+    <a href="/tags/%E5%8D%9A%E7%89%A9%E9%A6%86/">博物馆</a>
+    
+    <a href="/tags/%E5%90%83%E9%A3%9F/">吃食</a>
+    
+    <a href="/tags/%E5%A5%B3%E6%80%A7%E5%8F%8B%E8%B0%8A/">女性友谊</a>
+    
+    <a href="/tags/%E5%A9%9A%E5%A7%BB/">婚姻</a>
+    
+    <a href="/tags/%E5%AD%A6%E4%B9%A0/">学习</a>
+    
+    <a href="/tags/%E5%B7%A5%E4%BD%9C/">工作</a>
+    
+    <a href="/tags/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/">投资理财</a>
+    
+    <a href="/tags/%E6%96%87%E8%89%BA/">文艺</a>
+    
+    <a href="/tags/%E6%B8%B8%E7%8E%A9/">游玩</a>
+    
+    <a href="/tags/%E7%8B%97%E5%AD%90/">狗子</a>
+    
+    <a href="/tags/%E7%A0%81%E5%86%9C/">码农</a>
+    
+    <a href="/tags/%E7%A7%91%E6%8A%80/">科技</a>
+    
+    <a href="/tags/%E8%B4%B9%E5%9F%8E/">费城</a>
+    
+    <a href="/tags/%E8%BF%90%E5%8A%A8%E5%81%A5%E8%BA%AB/">运动健身</a>
+    
+    <a href="/tags/%E9%81%BF%E5%AD%95/">避孕</a>
+    
+    <a href="/tags/%E9%9C%B2%E8%90%A5/">露营</a>
+    
+  </div>
+</section>
+
+        
+        
+
+<hr>
+<h5>FRIENDS</h5>
+<ul class="list-inline">
+  
+  <li><a href="https://www.notion.so/qingshanbadass/e3d519283a9f4412acc1d174ec94e30d" target="_blank">呼猫护卫</a></li>
+  
+  <li><a href="https://blog.douchi.space/#gsc.tab=0" target="_blank">椒盐豆豉</a></li>
+  
+  <li><a href="https://nomadland.blog/" target="_blank">Nomadland</a></li>
+  
+  <li><a href="https://www.shingireservation.com/" target="_blank">Shingi</a></li>
+  
+  <li><a href="https://samsmerrygoround.github.io/" target="_blank">旋转木马鏖战记</a></li>
+  
+  <li><a href="https://yukieyun.net/" target="_blank">沉默之沙</a></li>
+  
+  <li><a href="https://rovingsun.wordpress.com/" target="_blank">rovingsun</a></li>
+  
+  <li><a href="https://changxiawushi.github.io/" target="_blank">长夏无事</a></li>
+  
+  <li><a href="https://thirdshire.com/" target="_blank">第三夏尔</a></li>
+  
+  <li><a href="https://faze2ezaf.github.io/blog/" target="_blank">Faze not Fazed</a></li>
+  
+  <li><a href="https://writee.org/baer/" target="_blank">冰熊酒吧</a></li>
+  
+  <li><a href="https://thewanderingallison.vercel.app/" target="_blank">The Wandering Allison</a></li>
+  
+  <li><a href="https://blogatlarge.com/c1air2/" target="_blank">萌荷里安</a></li>
+  
+</ul>
+
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+  
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        
+        <div class="text-center">
+          <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+          <script type='text/javascript'>kofiwidget2.init('请博主喝奶茶', '#404040', 'H2H3SRGJR');kofiwidget2.draw();</script> 
+        </div>
+        <br />
+        
+        <ul class="list-inline text-center">
+
+
+<li>
+  <a href="https://www.instagram.com/yitao.li23/" target="_blank">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+
+
+<li>
+  <a href="https://o3o.ca/@yttttting" target="_blank">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+
+
+<li>
+  <a href="https://www.youtube.com/@yitaoli" target="_blank">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+
+
+<li>
+  <a href="/index.xml" target="_blank">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li></ul>
+
+        <p class="copyright text-muted">
+          ©2023 Yitao Li  
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src=/js/jquery.min.js></script>
+<script src=/js/bootstrap.min.js crossorigin="anonymous"></script>
+
+
+
+<script src="/js/hux-blog.min.c4ea77041cd3edbfc8b2622cd887a9a5d8760a4162d14489e36d2a3fa4c90172.js"></script>
+
+
+<script src=/js/simple-jekyll-search.min.js></script>
+
+
+<script src="/js/search.min.53bce5da475b4d362500e5ce5dddfa22e20e1b9018777411d2020b4b839c9310.js"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+  function generateCatalog(selector) {
+    _containerSelector = 'div.post-container'
+    
+    var P = $(_containerSelector), a, n, t, l, i, c;
+    a = P.find('h1,h2,h3,h4');
+    
+    $(selector).html('')
+    
+    a.each(function () {
+      n = $(this).prop('tagName').toLowerCase();
+      i = "#" + $(this).prop('id');
+      t = $(this).text();
+      c = $('<a href="' + i + '" rel="nofollow">' + t + '</a>');
+      l = $('<li class="' + n + '_nav"></li>').append(c);
+      $(selector).append(l);
+    });
+    return true;
+  }
+
+  generateCatalog(".catalog-body");
+
+  
+  $(".catalog-toggle").click((function (e) {
+    e.preventDefault();
+    $('.side-catalog').toggleClass("fold")
+  }))
+</script>
+
+
+<script type="text/javascript" src='/js/jquery.nav.min.ade6bde8f9fcc6a4b40852cb892e9f5912340ab8fe1305149d917fdd16fffd8d.js'></script>
+<script>
+   $(document).ready( function () {
+    $('.catalog-body').onePageNav({
+      currentClass: "active",
+      changeHash: !1,
+      easing: "swing",
+      filter: "",
+      scrollSpeed: 700,
+      scrollOffset: 0,
+      scrollThreshold: .2,
+      begin: null,
+      end: null,
+      scrollChange: null,
+      padding: 80
+    });
+  });
+</script>
+
+
+
+
+
+
+
+<script src="/zoomjs/zoom.min.js"></script>
+
+</body>
+
+</html>

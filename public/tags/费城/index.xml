@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>费城 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E8%B4%B9%E5%9F%8E/</link>
+    <description>Recent content in 费城 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Sat, 23 Dec 2023 17:17:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%B4%B9%E5%9F%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 年终总结</title>
+      <link>http://localhost:1313/posts/2023-year-end-review/</link>
+      <pubDate>Sat, 23 Dec 2023 17:17:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-year-end-review/</guid>
+      <description>年度之书：The Book of Goose多亏了未命名读书会激励我读书，今年听/看了 26 本，有虚构、非虚构、专业书、self-help 等等，还写了两片读书</description>
+    </item>
+  </channel>
+</rss>

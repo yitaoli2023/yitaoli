@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>运动健身 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E8%BF%90%E5%8A%A8%E5%81%A5%E8%BA%AB/</link>
+    <description>Recent content in 运动健身 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Sat, 23 Dec 2023 17:17:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E8%BF%90%E5%8A%A8%E5%81%A5%E8%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 年终总结</title>
+      <link>http://localhost:1313/posts/2023-year-end-review/</link>
+      <pubDate>Sat, 23 Dec 2023 17:17:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-year-end-review/</guid>
+      <description>年度之书：The Book of Goose多亏了未命名读书会激励我读书，今年听/看了 26 本，有虚构、非虚构、专业书、self-help 等等，还写了两片读书</description>
+    </item>
+    <item>
+      <title>帕克城：可滑雪有美食</title>
+      <link>http://localhost:1313/posts/park-city-ski-food/</link>
+      <pubDate>Fri, 22 Dec 2023 17:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/park-city-ski-food/</guid>
+      <description>本来是想写年终总结，没想到洋洋洒洒写了太多，攒出了一篇新博客。 滑雪今年一月帕克城滑雪 🎿 一周，去年三月提前就买好了 Epic Pass。住在山脚的 Air</description>
+    </item>
+    <item>
+      <title>网球初体验🎾</title>
+      <link>http://localhost:1313/posts/beginner-tennis/</link>
+      <pubDate>Fri, 10 Nov 2023 15:01:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beginner-tennis/</guid>
+      <description>今年十月中和朋友一起开始学网球。一节课六个人，每次一个半小时，一共五节课。意外地很好玩，每周都在期待上课。一节课下来，会感受到身体因为运动而</description>
+    </item>
+    <item>
+      <title>一些夏天时候的伸展</title>
+      <link>http://localhost:1313/posts/summer-activities-2023/</link>
+      <pubDate>Wed, 11 Oct 2023 21:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/summer-activities-2023/</guid>
+      <description>最近小风嗖嗖地吹起来，早晚一下子就有了凉意。这几个月工作中不是特别得志，但好歹也在生活里找到了不少快乐：探索了新的兴趣，认识了新的朋友，尝试</description>
+    </item>
+  </channel>
+</rss>

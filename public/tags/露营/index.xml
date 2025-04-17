@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>露营 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E9%9C%B2%E8%90%A5/</link>
+    <description>Recent content in 露营 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Fri, 21 Aug 2020 09:38:30 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%9C%B2%E8%90%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>三天两夜New Hampshire露营</title>
+      <link>http://localhost:1313/posts/camping-in-nh/</link>
+      <pubDate>Fri, 21 Aug 2020 09:38:30 +0800</pubDate>
+      <guid>http://localhost:1313/posts/camping-in-nh/</guid>
+      <description>疫情在家憋了四个月，七月中下旬终于决定去山里透口气。波士顿的夏天稍纵即逝，不愿躺着浪费了。本来心心念念想去 Acadia，但是营地不开，所以就</description>
+    </item>
+  </channel>
+</rss>

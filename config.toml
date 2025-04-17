@@ -145,7 +145,7 @@ url = "https://writee.org/baer/"
 
 [[params.friends]]
 name = "The Wandering Allison"
-url = "https://thewanderingallison.github.io/"
+url = "https://thewanderingallison.vercel.app/"
 
 [[params.friends]]
 name = "萌荷里安"

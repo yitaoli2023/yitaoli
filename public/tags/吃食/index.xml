@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吃食 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E5%90%83%E9%A3%9F/</link>
+    <description>Recent content in 吃食 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Fri, 27 Dec 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%90%83%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>后院种地笔记</title>
+      <link>http://localhost:1313/posts/backyard-garden/</link>
+      <pubDate>Fri, 27 Dec 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/backyard-garden/</guid>
+      <description>虽然还没有后院，也没有地，但是今年的公寓种植让我成功吃上了自己种的生姜和罗勒，也为超市小葱续了一两茬命。因为工作变动有可能会搬家，所以心也野</description>
+    </item>
+    <item>
+      <title>中年养生之食补篇</title>
+      <link>http://localhost:1313/posts/book-how-not-to-die/</link>
+      <pubDate>Fri, 10 May 2024 21:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-how-not-to-die/</guid>
+      <description>本文是我的读书笔记，是对书中提到的一些事实的记录，不含价值判断，也没有指导阅读者如何吃饭的意思。另外，科学是不断发展的，最新的研究可能会推翻</description>
+    </item>
+    <item>
+      <title>帕克城：可滑雪有美食</title>
+      <link>http://localhost:1313/posts/park-city-ski-food/</link>
+      <pubDate>Fri, 22 Dec 2023 17:31:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/park-city-ski-food/</guid>
+      <description>本来是想写年终总结，没想到洋洋洒洒写了太多，攒出了一篇新博客。 滑雪今年一月帕克城滑雪 🎿 一周，去年三月提前就买好了 Epic Pass。住在山脚的 Air</description>
+    </item>
+    <item>
+      <title>不用菜刀也能做的意大利面</title>
+      <link>http://localhost:1313/posts/summer-pasta/</link>
+      <pubDate>Wed, 23 Sep 2020 01:46:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/summer-pasta/</guid>
+      <description>室友推荐了一个 No-Knife Pasta 菜谱，于是自己也尝试着做了一下，并稍稍做了一点改变。简单又清爽，冷吃热吃都可以，而且只用到一个锅。20-30 分钟就能做好。</description>
+    </item>
+  </channel>
+</rss>

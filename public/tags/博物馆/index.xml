@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博物馆 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E5%8D%9A%E7%89%A9%E9%A6%86/</link>
+    <description>Recent content in 博物馆 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Wed, 28 Jun 2023 19:07:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%8D%9A%E7%89%A9%E9%A6%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>费城博物馆鉴</title>
+      <link>http://localhost:1313/posts/philly-museums/</link>
+      <pubDate>Wed, 28 Jun 2023 19:07:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/philly-museums/</guid>
+      <description>搬来费城三个多月了，热门景点逛了不少，其中博物馆有 6 个。费城虽小，但是历史文化底蕴在美国各大城市中也排得上号。而且夏天室外炎热，正适合在阴凉</description>
+    </item>
+    <item>
+      <title>老司机带你玩波士顿 - 博物馆篇</title>
+      <link>http://localhost:1313/posts/boston-museums/</link>
+      <pubDate>Wed, 14 Jun 2023 20:49:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/boston-museums/</guid>
+      <description>有能力的可以买全票支持博物馆的运营，想省钱也可以花一点点钱或者免费欣赏展品。祝大家在波士顿住得舒心、玩得开心。参观前记得查询博物馆官网获得最</description>
+    </item>
+  </channel>
+</rss>

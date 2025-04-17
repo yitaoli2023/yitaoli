@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>医疗 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E5%8C%BB%E7%96%97/</link>
+    <description>Recent content in 医疗 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Fri, 10 May 2024 21:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%8C%BB%E7%96%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中年养生之食补篇</title>
+      <link>http://localhost:1313/posts/book-how-not-to-die/</link>
+      <pubDate>Fri, 10 May 2024 21:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-how-not-to-die/</guid>
+      <description>本文是我的读书笔记，是对书中提到的一些事实的记录，不含价值判断，也没有指导阅读者如何吃饭的意思。另外，科学是不断发展的，最新的研究可能会推翻</description>
+    </item>
+    <item>
+      <title>解读大脑：探索创伤与疗愈</title>
+      <link>http://localhost:1313/posts/book-what-happened-to-you/</link>
+      <pubDate>Fri, 09 Feb 2024 17:10:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-what-happened-to-you/</guid>
+      <description>首先感谢火老师组织的读书会推荐这本书，其次感谢图书馆和 libby 提供的有声书。看到有关 self-help 的书籍我总是踊跃阅读，主要还是因为作为老中女儿创伤太多。书整</description>
+    </item>
+    <item>
+      <title>IUD置入体验</title>
+      <link>http://localhost:1313/posts/iud/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/iud/</guid>
+      <description>置入 IUD 之前，看了一些姐妹的经验贴，觉得非常有帮助，所以也来分享一下我的个人体验。 Disclaimer：本文只是个人知识和体验分享，并非医疗建</description>
+    </item>
+  </channel>
+</rss>

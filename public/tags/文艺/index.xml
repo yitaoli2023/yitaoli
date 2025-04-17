@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文艺 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E6%96%87%E8%89%BA/</link>
+    <description>Recent content in 文艺 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Thu, 17 Apr 2025 18:36:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%96%87%E8%89%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>春寒料峭时候的外出和蜗居</title>
+      <link>http://localhost:1313/posts/spring-days-2025/</link>
+      <pubDate>Thu, 17 Apr 2025 18:36:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spring-days-2025/</guid>
+      <description>虽然前几日才下了雪，但是已经四月，我只能自主宣布春天来了。最近又喝起了梨山茶，是乌龙的一种。喝下之后暖人心肺，身体也可以松弛下来，就像蜷曲的</description>
+    </item>
+    <item>
+      <title>木工 101：人生第一个手作砧板</title>
+      <link>http://localhost:1313/posts/woodworking-101/</link>
+      <pubDate>Fri, 28 Mar 2025 22:34:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/woodworking-101/</guid>
+      <description>三月开启的第一个支线任务就是学习如何制作砧板啦。一共有四次课，每次三小时。 在真正上手制作前，先迅速了解了木头和伐木工人如何切木头。上课用的四</description>
+    </item>
+    <item>
+      <title>2023 年终总结</title>
+      <link>http://localhost:1313/posts/2023-year-end-review/</link>
+      <pubDate>Sat, 23 Dec 2023 17:17:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-year-end-review/</guid>
+      <description>年度之书：The Book of Goose多亏了未命名读书会激励我读书，今年听/看了 26 本，有虚构、非虚构、专业书、self-help 等等，还写了两片读书</description>
+    </item>
+    <item>
+      <title>一些夏天时候的伸展</title>
+      <link>http://localhost:1313/posts/summer-activities-2023/</link>
+      <pubDate>Wed, 11 Oct 2023 21:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/summer-activities-2023/</guid>
+      <description>最近小风嗖嗖地吹起来，早晚一下子就有了凉意。这几个月工作中不是特别得志，但好歹也在生活里找到了不少快乐：探索了新的兴趣，认识了新的朋友，尝试</description>
+    </item>
+  </channel>
+</rss>

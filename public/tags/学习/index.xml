@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 学习 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Fri, 28 Mar 2025 22:34:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>木工 101：人生第一个手作砧板</title>
+      <link>http://localhost:1313/posts/woodworking-101/</link>
+      <pubDate>Fri, 28 Mar 2025 22:34:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/woodworking-101/</guid>
+      <description>三月开启的第一个支线任务就是学习如何制作砧板啦。一共有四次课，每次三小时。 在真正上手制作前，先迅速了解了木头和伐木工人如何切木头。上课用的四</description>
+    </item>
+    <item>
+      <title>后院种地笔记</title>
+      <link>http://localhost:1313/posts/backyard-garden/</link>
+      <pubDate>Fri, 27 Dec 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/backyard-garden/</guid>
+      <description>虽然还没有后院，也没有地，但是今年的公寓种植让我成功吃上了自己种的生姜和罗勒，也为超市小葱续了一两茬命。因为工作变动有可能会搬家，所以心也野</description>
+    </item>
+    <item>
+      <title>中年养生之食补篇</title>
+      <link>http://localhost:1313/posts/book-how-not-to-die/</link>
+      <pubDate>Fri, 10 May 2024 21:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-how-not-to-die/</guid>
+      <description>本文是我的读书笔记，是对书中提到的一些事实的记录，不含价值判断，也没有指导阅读者如何吃饭的意思。另外，科学是不断发展的，最新的研究可能会推翻</description>
+    </item>
+    <item>
+      <title>解读大脑：探索创伤与疗愈</title>
+      <link>http://localhost:1313/posts/book-what-happened-to-you/</link>
+      <pubDate>Fri, 09 Feb 2024 17:10:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-what-happened-to-you/</guid>
+      <description>首先感谢火老师组织的读书会推荐这本书，其次感谢图书馆和 libby 提供的有声书。看到有关 self-help 的书籍我总是踊跃阅读，主要还是因为作为老中女儿创伤太多。书整</description>
+    </item>
+    <item>
+      <title>手把手教你建立边界感(二)</title>
+      <link>http://localhost:1313/posts/the-book-of-boundaries-part-2/</link>
+      <pubDate>Sat, 20 Jan 2024 20:55:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-book-of-boundaries-part-2/</guid>
+      <description>上文 笼统写了边界是什么，如何设定边界，设定边界之后如何应对别人的负面回应。其实书中还有具体的小贴士，根据不同类别和情形，给了很多例子。有的时</description>
+    </item>
+    <item>
+      <title>手把手教你建立边界感</title>
+      <link>http://localhost:1313/posts/the-book-of-boundaries/</link>
+      <pubDate>Wed, 29 Nov 2023 22:47:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-book-of-boundaries/</guid>
+      <description>设定边界是我这几年一直在探索的主题。尤其是因为在成长过程中不被鼓励表达自己的需求，也没有好的榜样供我模仿。不仅如此，也算是眼睁睁看着家人饱含</description>
+    </item>
+    <item>
+      <title>一份打工人的情绪管理指南</title>
+      <link>http://localhost:1313/posts/book-no-hard-feelings/</link>
+      <pubDate>Thu, 07 Sep 2023 20:02:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-no-hard-feelings/</guid>
+      <description>想要读这本书是因为意识到我是一个 1）把工作看得过重，2）无法很好感知和认识自己情绪的人。这当然和成长环境脱不了关系。读书的时候成绩是唯一的风</description>
+    </item>
+    <item>
+      <title>转码上岸，我都学了些啥</title>
+      <link>http://localhost:1313/posts/swe-online-course-books/</link>
+      <pubDate>Fri, 16 Jun 2023 22:47:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/swe-online-course-books/</guid>
+      <description>全职做 SWE 一周年啦 🎉。回顾总结一下在转码和工作过程中，我都上了哪些课，读了哪些书。 网课/Bootcamp Full Stack JavaScript - Treehouse主要学习了 J</description>
+    </item>
+  </channel>
+</rss>

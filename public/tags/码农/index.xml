@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>码农 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E7%A0%81%E5%86%9C/</link>
+    <description>Recent content in 码农 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Fri, 16 Jun 2023 22:47:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%A0%81%E5%86%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>转码上岸，我都学了些啥</title>
+      <link>http://localhost:1313/posts/swe-online-course-books/</link>
+      <pubDate>Fri, 16 Jun 2023 22:47:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/swe-online-course-books/</guid>
+      <description>全职做 SWE 一周年啦 🎉。回顾总结一下在转码和工作过程中，我都上了哪些课，读了哪些书。 网课/Bootcamp Full Stack JavaScript - Treehouse主要学习了 J</description>
+    </item>
+  </channel>
+</rss>

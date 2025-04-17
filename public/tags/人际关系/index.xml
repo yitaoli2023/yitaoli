@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人际关系 on 李一桃 🍑</title>
+    <link>http://localhost:1313/tags/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/</link>
+    <description>Recent content in 人际关系 on 李一桃 🍑</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 Yitao Li</copyright>
+    <lastBuildDate>Fri, 09 Feb 2024 17:10:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>解读大脑：探索创伤与疗愈</title>
+      <link>http://localhost:1313/posts/book-what-happened-to-you/</link>
+      <pubDate>Fri, 09 Feb 2024 17:10:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-what-happened-to-you/</guid>
+      <description>首先感谢火老师组织的读书会推荐这本书，其次感谢图书馆和 libby 提供的有声书。看到有关 self-help 的书籍我总是踊跃阅读，主要还是因为作为老中女儿创伤太多。书整</description>
+    </item>
+    <item>
+      <title>手把手教你建立边界感(二)</title>
+      <link>http://localhost:1313/posts/the-book-of-boundaries-part-2/</link>
+      <pubDate>Sat, 20 Jan 2024 20:55:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-book-of-boundaries-part-2/</guid>
+      <description>上文 笼统写了边界是什么，如何设定边界，设定边界之后如何应对别人的负面回应。其实书中还有具体的小贴士，根据不同类别和情形，给了很多例子。有的时</description>
+    </item>
+    <item>
+      <title>手把手教你建立边界感</title>
+      <link>http://localhost:1313/posts/the-book-of-boundaries/</link>
+      <pubDate>Wed, 29 Nov 2023 22:47:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-book-of-boundaries/</guid>
+      <description>设定边界是我这几年一直在探索的主题。尤其是因为在成长过程中不被鼓励表达自己的需求，也没有好的榜样供我模仿。不仅如此，也算是眼睁睁看着家人饱含</description>
+    </item>
+  </channel>
+</rss>
