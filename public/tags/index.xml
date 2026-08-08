@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>©2023 Yitao Li</copyright>
-    <lastBuildDate>Sun, 15 Mar 2026 17:29:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:27:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>吃食</title>
+      <link>http://localhost:1313/tags/%E5%90%83%E9%A3%9F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%90%83%E9%A3%9F/</guid>
+      <description></description>
+    </item>
     <item>
       <title>文艺</title>
       <link>http://localhost:1313/tags/%E6%96%87%E8%89%BA/</link>
@@ -35,13 +42,6 @@
       <link>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>吃食</title>
-      <link>http://localhost:1313/tags/%E5%90%83%E9%A3%9F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%90%83%E9%A3%9F/</guid>
       <description></description>
     </item>
     <item>
